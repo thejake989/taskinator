@@ -1,4 +1,4 @@
-# taskinator
+# Taskinator!
 
 This app helps with the organization and completion of tasks.
 
